@@ -1,20 +1,34 @@
 # ArcMap Colors XML File
 
+[![QGIS Hub](https://img.shields.io/badge/QGIS%20Hub-Style%20%23229-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://hub.qgis.org/styles/229/)
+
 A color palette XML file compatible with QGIS, designed to provide professional cartographic color schemes for GIS visualization.
 
 ## Overview
 
 This repository contains a color palette file in XML format that can be imported and used in QGIS (Quantum GIS). The color schemes are designed for geospatial data visualization and can be used for various mapping and cartographic purposes.
 
+**Also available on [QGIS Hub](https://hub.qgis.org/styles/229/)** - Download directly from the QGIS Style Repository!
+
 ## Features
 
 - **QGIS Compatible**: Direct import into QGIS without conversion
 - **Pre-defined Color Schemes**: Professional color palettes ready for cartographic use
 - **XML Format**: Standard XML structure for easy editing and customization
+- **Available on QGIS Hub**: Easy access through the official QGIS style repository
 
 ## Installation
 
-### For QGIS Users
+### Option 1: From QGIS Hub (Recommended)
+
+1. Open QGIS
+2. Go to `Settings` → `Style Manager`
+3. Click on the `Import/Export` button (bottom left)
+4. Select `Browse Online Styles`
+5. Search for "ArcMap Colors" or visit [Style #229](https://hub.qgis.org/styles/229/)
+6. Click `Import` to add the color schemes to your library
+
+### Option 2: From GitHub
 
 1. **Download the XML file**
    ```bash
@@ -108,11 +122,13 @@ Contributions are welcome! To contribute:
 
 - [QGIS Color Ramp Generator](https://github.com/Heed725/qgis_colorramp_generator) - Web-based tool for creating custom QGIS color ramps
 - [ColorBrewer](https://colorbrewer2.org/) - Online tool for selecting color schemes
+- [QGIS Hub Style Repository](https://hub.qgis.org/styles/) - Browse and download QGIS styles
 
 ## Resources
 
 - [QGIS Documentation - Style Manager](https://docs.qgis.org/latest/en/docs/user_manual/style_library/style_manager.html)
 - [QGIS Color Ramp Documentation](https://docs.qgis.org/latest/en/docs/user_manual/style_library/symbol_selector.html#color-ramp)
+- [QGIS Hub - This Style](https://hub.qgis.org/styles/229/)
 
 ## License
 
@@ -123,6 +139,7 @@ This project is open source. Please check the repository for specific license in
 For issues, questions, or suggestions:
 - Open an issue in the [GitHub repository](https://github.com/Heed725/Arcmap_Colors_XML_File/issues)
 - Check existing issues for similar problems
+- Visit the [QGIS Hub page](https://hub.qgis.org/styles/229/) for community feedback
 
 ## Author
 
